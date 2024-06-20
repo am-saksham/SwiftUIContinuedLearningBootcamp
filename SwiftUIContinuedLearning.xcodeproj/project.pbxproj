@@ -19,6 +19,7 @@
 		19FBEF592C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FBEF582C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift */; };
 		19FBEF5B2C23B7860057F9D4 /* GeometryReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FBEF5A2C23B7860057F9D4 /* GeometryReaderBootCamp.swift */; };
 		19FBEF5D2C23BD970057F9D4 /* MultipleSheetsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FBEF5C2C23BD970057F9D4 /* MultipleSheetsBootCamp.swift */; };
+		19FBEF5F2C23C8C50057F9D4 /* MaskBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FBEF5E2C23C8C50057F9D4 /* MaskBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		19FBEF582C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
 		19FBEF5A2C23B7860057F9D4 /* GeometryReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootCamp.swift; sourceTree = "<group>"; };
 		19FBEF5C2C23BD970057F9D4 /* MultipleSheetsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootCamp.swift; sourceTree = "<group>"; };
+		19FBEF5E2C23C8C50057F9D4 /* MaskBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				19FBEF582C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift */,
 				19FBEF5A2C23B7860057F9D4 /* GeometryReaderBootCamp.swift */,
 				19FBEF5C2C23BD970057F9D4 /* MultipleSheetsBootCamp.swift */,
+				19FBEF5E2C23C8C50057F9D4 /* MaskBootCamp.swift */,
 				19A60E912C1FD83900EDC94D /* Assets.xcassets */,
 				19A60E932C1FD83900EDC94D /* Preview Content */,
 			);
@@ -163,6 +166,7 @@
 			files = (
 				19A60E902C1FD83800EDC94D /* ContentView.swift in Sources */,
 				19A60E8E2C1FD83800EDC94D /* SwiftUIContinuedLearningApp.swift in Sources */,
+				19FBEF5F2C23C8C50057F9D4 /* MaskBootCamp.swift in Sources */,
 				1929BD062C22701100E80B86 /* DragGestureBootCamp2.swift in Sources */,
 				19FBEF592C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift in Sources */,
 				19FBEF5B2C23B7860057F9D4 /* GeometryReaderBootCamp.swift in Sources */,
