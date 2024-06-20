@@ -18,6 +18,7 @@
 		19A60E9C2C1FD88200EDC94D /* LongPressGestureBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A60E9B2C1FD88200EDC94D /* LongPressGestureBootCamp.swift */; };
 		19FBEF592C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FBEF582C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift */; };
 		19FBEF5B2C23B7860057F9D4 /* GeometryReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FBEF5A2C23B7860057F9D4 /* GeometryReaderBootCamp.swift */; };
+		19FBEF5D2C23BD970057F9D4 /* MultipleSheetsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19FBEF5C2C23BD970057F9D4 /* MultipleSheetsBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		19A60E9B2C1FD88200EDC94D /* LongPressGestureBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureBootCamp.swift; sourceTree = "<group>"; };
 		19FBEF582C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
 		19FBEF5A2C23B7860057F9D4 /* GeometryReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootCamp.swift; sourceTree = "<group>"; };
+		19FBEF5C2C23BD970057F9D4 /* MultipleSheetsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				1929BD052C22701100E80B86 /* DragGestureBootCamp2.swift */,
 				19FBEF582C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift */,
 				19FBEF5A2C23B7860057F9D4 /* GeometryReaderBootCamp.swift */,
+				19FBEF5C2C23BD970057F9D4 /* MultipleSheetsBootCamp.swift */,
 				19A60E912C1FD83900EDC94D /* Assets.xcassets */,
 				19A60E932C1FD83900EDC94D /* Preview Content */,
 			);
@@ -164,6 +167,7 @@
 				19FBEF592C23B2940057F9D4 /* ScrollViewReaderBootCamp.swift in Sources */,
 				19FBEF5B2C23B7860057F9D4 /* GeometryReaderBootCamp.swift in Sources */,
 				1937F09C2C212BA200336B00 /* MagnificationGestureBootCamp.swift in Sources */,
+				19FBEF5D2C23BD970057F9D4 /* MultipleSheetsBootCamp.swift in Sources */,
 				1929BD022C22696F00E80B86 /* RotationGestureBootCamp.swift in Sources */,
 				1929BD042C226C2E00E80B86 /* DragGestureBootCamp.swift in Sources */,
 				19A60E9C2C1FD88200EDC94D /* LongPressGestureBootCamp.swift in Sources */,
