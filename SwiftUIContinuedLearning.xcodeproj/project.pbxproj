@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		190F22222C3414060053072B /* HashableBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 190F22212C3414060053072B /* HashableBootCamp.swift */; };
 		1929BD022C22696F00E80B86 /* RotationGestureBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1929BD012C22696F00E80B86 /* RotationGestureBootCamp.swift */; };
 		1929BD042C226C2E00E80B86 /* DragGestureBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1929BD032C226C2E00E80B86 /* DragGestureBootCamp.swift */; };
 		1929BD062C22701100E80B86 /* DragGestureBootCamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1929BD052C22701100E80B86 /* DragGestureBootCamp2.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		190F22212C3414060053072B /* HashableBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootCamp.swift; sourceTree = "<group>"; };
 		1929BD012C22696F00E80B86 /* RotationGestureBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureBootCamp.swift; sourceTree = "<group>"; };
 		1929BD032C226C2E00E80B86 /* DragGestureBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootCamp.swift; sourceTree = "<group>"; };
 		1929BD052C22701100E80B86 /* DragGestureBootCamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootCamp2.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				19FBEF602C23CC7F0057F9D4 /* SoundsBootCamp.swift */,
 				19C923342C2513700054E886 /* HapticsBootCamp.swift */,
 				19C923362C2517340054E886 /* LocalNotificationBootCamp.swift */,
+				190F22212C3414060053072B /* HashableBootCamp.swift */,
 				19FBEF622C23CE7F0057F9D4 /* Sounds */,
 				19A60E912C1FD83900EDC94D /* Assets.xcassets */,
 				19A60E932C1FD83900EDC94D /* Preview Content */,
@@ -189,6 +192,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				190F22222C3414060053072B /* HashableBootCamp.swift in Sources */,
 				19A60E902C1FD83800EDC94D /* ContentView.swift in Sources */,
 				19A60E8E2C1FD83800EDC94D /* SwiftUIContinuedLearningApp.swift in Sources */,
 				19FBEF5F2C23C8C50057F9D4 /* MaskBootCamp.swift in Sources */,
